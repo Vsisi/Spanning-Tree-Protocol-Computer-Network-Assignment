@@ -1,5 +1,5 @@
 # Spanning-Tree-Protocol-Computer-Network-Assignment
-J4R
+J4R  
 Been tested for only 2 samples. DO NOT GUARANTEE CORRECTNESS!!!!
 
 Input integer n, and then input n groups of BID, PID, LANID and Cost, denotes that bridge BID connects to LAN LANID by port PID with a cost of Cost.  
